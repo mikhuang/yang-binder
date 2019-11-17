@@ -1,0 +1,6 @@
+{
+  "python.pythonPath": "/Users/mikhuang/.local/share/virtualenvs/yang-binder-2TDsK6Kz/bin/python",
+  "python.linting.enabled": true,
+  "python.formatting.provider": "black",
+  "editor.formatOnSave": true
+}
